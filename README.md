@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anchorsAway
 - 👀 I’m interested in C#, C++, cybersecurity, website/database design.
-- 🌱 I’m currently learning C++, Java & Unreal.
+- 🌱 I’m currently learning C++, Java, Python & Unreal Engine.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
